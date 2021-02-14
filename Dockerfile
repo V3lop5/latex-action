@@ -1,4 +1,4 @@
-FROM ghcr.io/xu-cheng/texlive-small:latest
+FROM thomasweise/docker-texlive-thin:latest
 
 COPY \
   LICENSE \
