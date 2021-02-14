@@ -1,6 +1,6 @@
-name: Github Action for LaTeX
-description: GitHub Action to compile LaTeX documents
-author: Cheng XU
+name: Github Action for LaTeX with TeXLive
+description: GitHub Action to compile LaTeX documents with TeXLive
+author: (Cheng XU forked by) V3lop5
 inputs:
   root_file:
     description: The root LaTeX file to be compiled
