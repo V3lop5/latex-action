@@ -1,4 +1,4 @@
-FROM thomasweise/docker-texlive-thin:latest
+FROM fredqi/texlive:academic
 
 COPY \
   LICENSE \
